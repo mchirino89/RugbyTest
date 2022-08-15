@@ -1,0 +1,70 @@
+PODS:
+  - Amplitude-iOS (4.8.2)
+  - Analytics (3.7.1)
+  - AppsFlyerFramework (6.3.5):
+    - AppsFlyerFramework/Main (= 6.3.5)
+  - AppsFlyerFramework/Main (6.3.5)
+  - Apptimize (3.4.31)
+  - iProov (8.3.1):
+    - Socket.IO-Client-Swift (~> 15.2)
+  - JumioMobileSDK/DocumentVerification (3.9.1)
+  - JumioMobileSDK/NetverifyBarcode (3.9.1)
+  - JumioMobileSDK/NetverifyBase (3.9.1)
+  - "JumioMobileSDK/NetverifyFace+iProov (3.9.1)":
+    - iProov (= 8.3.1)
+  - Segment-Amplitude (3.0.1):
+    - Amplitude-iOS (~> 4.8.0)
+    - Analytics (~> 3.7.0)
+  - segment-appsflyer-ios (6.3.5):
+    - Analytics
+    - segment-appsflyer-ios/Main (= 6.3.5)
+  - segment-appsflyer-ios/Main (6.3.5):
+    - Analytics
+    - AppsFlyerFramework (~> 6.3.5)
+  - Segment-Apptimize (0.3.4):
+    - Analytics (>= 3.0)
+    - Apptimize (~> 3.0)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - Apptimize (~> 3.4.7)
+  - JumioMobileSDK/DocumentVerification (= 3.9.1)
+  - JumioMobileSDK/NetverifyBarcode (= 3.9.1)
+  - JumioMobileSDK/NetverifyBase (= 3.9.1)
+  - "JumioMobileSDK/NetverifyFace+iProov (= 3.9.1)"
+  - Segment-Amplitude (~> 3.0.1)
+  - segment-appsflyer-ios (~> 6.3.0)
+  - Segment-Apptimize (~> 0.3.2)
+
+SPEC REPOS:
+  trunk:
+    - Amplitude-iOS
+    - Analytics
+    - AppsFlyerFramework
+    - Apptimize
+    - iProov
+    - JumioMobileSDK
+    - Segment-Amplitude
+    - segment-appsflyer-ios
+    - Segment-Apptimize
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  Amplitude-iOS: 46c8e6e65c49bb1ad1909a9add1a68e1f8562b3f
+  Analytics: f82f3cd6d3c8fbfd76ce25773199576656981a4a
+  AppsFlyerFramework: fa7e2e8234e6d285256bcb948eb2b77aee84ba81
+  Apptimize: 21a2b9e373b6f7255406a797087e3bf63bd33cf4
+  iProov: 6156dfc838cc11970b5c16aa33608614f26af56c
+  JumioMobileSDK: f8f1d439d5ca305c25708198099e47c4f0a70709
+  Segment-Amplitude: 1b3b02a2e92f4b08a413a72bf7aa44f78566ab3b
+  segment-appsflyer-ios: efcf23443f474a556e82c0e876d9af3f7826b19e
+  Segment-Apptimize: 62dcc468e4c52ec5230fb2540f8a6f2ab69ae4dd
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: 0474a86045cf7fde034eec8b8b9d4367748ccc5e
+
+COCOAPODS: 1.11.3
