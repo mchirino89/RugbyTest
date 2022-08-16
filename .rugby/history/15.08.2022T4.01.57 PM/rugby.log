@@ -1,0 +1,54 @@
+* Rugby version: 1.20.1
+* Command: rugby -v
+* Xcode 13.4 / Build version 13F17a
+* Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+* CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+* Project: RugbyTest
+* Git branch: main
+[33m---------------------------------[0m
+[32mPrepare[0m [33mRead project [0m[37m✓[0m
+[32mPrepare[0m [33mBackup [0mPods/Pods.xcodeproj
+[32mPrepare[0m [33mBackup [0mPods/Target Support Files
+[32mPrepare[0m [33mPods [0m(8)[33m:[0m
+[32mPrepare[0m [33m* [0mAnalytics
+[32mPrepare[0m [33m* [0mAppsFlyerFramework
+[32mPrepare[0m [33m* [0mApptimize
+[32mPrepare[0m [33m* [0miProov
+[32mPrepare[0m [33m* [0mJumioMobileSDK
+[32mPrepare[0m [33m* [0msegment-appsflyer-ios
+[32mPrepare[0m [33m* [0mSocket.IO-Client-Swift
+[32mPrepare[0m [33m* [0mStarscream
+[32mPrepare[0m [33mExclude XCFrameworks [0m(3)[33m:[0m
+[32mPrepare[0m [33m* [0mAppsFlyerFramework
+[32mPrepare[0m [33m* [0mApptimize
+[32mPrepare[0m [33m* [0miProov
+[32mPrepare[0m [33mCalculate checksums [0m[37m✓[0m
+[32mPrepare[0m [33mResolving dependencies graph[0m
+[32mPrepare[0m [33mBuild targets [0m(5)[33m:[0m
+[32mPrepare[0m [33m* [0mAnalytics
+[32mPrepare[0m [33m* [0mJumioMobileSDK
+[32mPrepare[0m [33m* [0msegment-appsflyer-ios
+[32mPrepare[0m [33m* [0mSocket.IO-Client-Swift
+[32mPrepare[0m [33m* [0mStarscream
+[32mPrepare[0m [33mAdd build target: [0mRugbyPods
+[32mPrepare[0m [33mSave project [0m[37m✓[0m
+[33m[1s][0m [32mPrepare[0m ✓
+[32mBuild[0m [33mBuilding [0m[33msim-x86_64[0m[33m [0m[37m✓[0m
+[32mBuild[0m [33mUpdate checksums [0m[37m✓[0m
+[33m[7s][0m [32mBuild[0m ✓
+[32mIntegration[0m [33mUpdate paths to built pods [0m[37m✓[0m
+[33m[1s][0m [32mIntegration[0m ✓
+[32mClean up[0m [33mRead project [0m[37m✓[0m
+[32mClean up[0m [33mRemove sources from project[0m
+[32mClean up[0m [33mRemove frameworks[0m
+[32mClean up[0m [33mRemove products[0m
+[32mClean up[0m [33mRemove build target[0m
+[32mClean up[0m [33mRemove built pods[0m
+[32mClean up[0m [33mRemove schemes[0m
+[32mClean up[0m [33mSave project [0m[37m✓[0m
+[33m[1s][0m [32mClean up[0m ✓
+[33m[9s][0m [32mCached 5/8 pods.[0m
+[33m[!] [0m[33mProject size [0m[32m↓65%[0m
+[33m[!] [0m[33mIndexing files count [0m[32m↓97%[0m
+[33m[!] [0m[33mTargets count [0m[32m↓55%[0m
+[33m[9s][0m [32mLet's roll 🏈[0m

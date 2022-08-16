@@ -1,0 +1,17 @@
+Debug-iphonesimulator:
+  sdk: sim
+  arch: x86_64
+  config: Debug
+  swift: '5.6'
+  xcargs:
+  - COMPILER_INDEX_STORE_ENABLE=NO
+  - SWIFT_COMPILATION_MODE=wholemodule
+  checksums:
+  - 'Amplitude-iOS: 46c8e6e65c49bb1ad1909a9add1a68e1f8562b3f'
+  - 'Analytics: f82f3cd6d3c8fbfd76ce25773199576656981a4a'
+  - 'JumioMobileSDK: f8f1d439d5ca305c25708198099e47c4f0a70709'
+  - 'Segment-Amplitude: 1b3b02a2e92f4b08a413a72bf7aa44f78566ab3b'
+  - 'Segment-Apptimize: 62dcc468e4c52ec5230fb2540f8a6f2ab69ae4dd'
+  - 'Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c'
+  - 'Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0'
+  - 'segment-appsflyer-ios: efcf23443f474a556e82c0e876d9af3f7826b19e'
